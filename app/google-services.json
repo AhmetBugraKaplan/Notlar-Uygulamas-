@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "725323836377",
+    "firebase_url": "https://sozlukuygulamasi-bdcbd-default-rtdb.firebaseio.com",
+    "project_id": "sozlukuygulamasi-bdcbd",
+    "storage_bucket": "sozlukuygulamasi-bdcbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725323836377:android:c4d6b6a05cf1d5418e47c8",
+        "android_client_info": {
+          "package_name": "com.example.notlaruygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswpqV5z75TeirimnGFx9GHhQ1TEssviw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725323836377:android:5213920fef1af5438e47c8",
+        "android_client_info": {
+          "package_name": "com.example.sqlitekullanimitekrarbu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswpqV5z75TeirimnGFx9GHhQ1TEssviw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
